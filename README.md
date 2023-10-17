@@ -1,13 +1,10 @@
 # FDV_MovementAndEvent
 
-## Implementar una UI que permita configurar con qué velocidad te moverás: turbo o normal. También debe mostar la cantidad de objetos recolectados y si chocas con alguno especial restar fuerza.
-texto
-
-![GifResultante](gifs/P1.gif)
-## Agregar a tu escena un objeto que al ser recolectado por el jugador haga que otros objetos obstáculos se desplacen de su trayectoria.
+## Implementar una UI que permita configurar con qué velocidad te moverás: turbo o normal. También debe mostar la cantidad de objetos recolectados y si chocas con alguno especial restar fuerza. Agregar a tu escena un objeto que al ser recolectado por el jugador haga que otros objetos obstáculos se desplacen de su trayectoria.
 texto
 
 ![GifResultante](gifs/P2.gif)
+![GifResultante](gifs/P1.gif)
 ## Agrega un objeto que te teletransporte a otra zona de la escena.
 texto
 
